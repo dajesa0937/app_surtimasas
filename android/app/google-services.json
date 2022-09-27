@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "745443276087",
+    "project_id": "surtimasas-de-la-costa-app",
+    "storage_bucket": "surtimasas-de-la-costa-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745443276087:android:3353047475e05605ec56b2",
+        "android_client_info": {
+          "package_name": "com.app_surtimasas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745443276087-h867un9endr21emgvk5k6q2vjs9b6ve0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app_surtimasas",
+            "certificate_hash": "a8d9858c5b0a687d65cc49fa023ca76fd1439e21"
+          }
+        },
+        {
+          "client_id": "745443276087-j5sqp00461sju5o7b5lakg4ur7imbb2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBKPB0kPYxYr7ajWVQdxW6q2A2n_uGt0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745443276087-j5sqp00461sju5o7b5lakg4ur7imbb2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
